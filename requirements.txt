@@ -1,0 +1,5 @@
+llama-index
+openai==1.42.0
+pypdf==4.3.1
+pinecone==5.1.0
+python-dotenv
